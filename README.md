@@ -85,12 +85,12 @@ Or show dark pinned-repo cards (uncomment and set repo names):
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=YOUR-USERNAME&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shaminsultana1111&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff&ring_color=58a6ff"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Sharminsultana1111&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=8B949E&dates=8B949E"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR-USERNAME&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sharminsultana1111&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true&area_color=58a6ff&hide_border=true" width="95%"/>
 </p>
 
 ---
@@ -98,6 +98,6 @@ Or show dark pinned-repo cards (uncomment and set repo names):
 ## 📫 Contact
 
 Open to internships, research collaborations and conversations about VLSI and chip design.<br>
-📧 [sharminsultana2491@gmail.com](mailto:sharminsultana2491@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN-ID)
+📧 [sharminsultana2491@gmail.com](mailto:sharminsultana2491@gmail.com) &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/http://www.linkedin.com/in/sharminsultana11)
 
 <p align="center"><i>From transistors to silicon.</i> ⚡</p>
