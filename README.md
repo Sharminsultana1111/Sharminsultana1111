@@ -11,7 +11,6 @@
 <p>
   <a href="mailto:sharminsultana2491@gmail.com"><img src="https://img.shields.io/badge/Email-21262d?style=for-the-badge&logo=gmail&logoColor=58a6ff"/></a>
   <a href="https://linkedin.com/in/http://www.linkedin.com/in/sharminsultana11"><img src="https://img.shields.io/badge/LinkedIn-21262d?style=for-the-badge&logo=linkedin&logoColor=58a6ff"/></a>
-  <a href="https://github.com/YOUR-USERNAME/YOUR-USERNAME/blob/main/CV.pdf"><img src="https://img.shields.io/badge/Resume-21262d?style=for-the-badge&logo=readme&logoColor=58a6ff"/></a>
 </p>
 
 </div>
